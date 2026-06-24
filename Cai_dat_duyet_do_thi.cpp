@@ -109,9 +109,6 @@ public:
 };
 
 int main() {
-    // Thiết lập mã hóa tiếng Việt cho console (nếu cần trên Windows)
-    // system("chcp 65001"); 
-
     DoThiBangVector do_thi_1;
     DoThiBangDSLK do_thi_2;
 
